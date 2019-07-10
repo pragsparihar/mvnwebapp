@@ -1,6 +1,6 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-  <h3>Successfully Deployed on Tomcat using Jenkins!!!! Cool</h3>
+  <h3>Successfully Deployed on Tomcat using Jenkins!!!! Triggered by Github</h3>
 </body>
 </html>
